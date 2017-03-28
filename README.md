@@ -1,6 +1,5 @@
 # My freeCodeCamp Portfolio Challenge
 
-This is my freeCodeCamp portfolio challenge.
+This repository is my freeCodeCamp portfolio challenge.
 For now, it is just a template.
-The final result will be published on codepen.io
-
+I will publish the final result on codepen.io.

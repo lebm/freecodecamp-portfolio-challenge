@@ -1,3 +1,31 @@
 body {
   position: relative;
 }
+
+.botao {
+    color: #fff;
+    border: solid 2px #fff;
+    border-radius: 50%;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 48px;
+}
+
+.lista-horizontal {
+    list-style-type: none;
+}
+
+.social-icons {
+  display: inline;
+  text-decoration: none;
+  padding: .2em 1em;
+}
+
+.centrado {
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
